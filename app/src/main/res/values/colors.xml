@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#003770</color>
+    <color name="colorPrimaryDark">#001F44</color>
+    <color name="colorAccent">#14A0FF</color>
+
+    <color name="main_bg">#E9E9E9</color>
+    <color name="done_bg">#D0D0D8</color>
+
+    <color name="white">#ffffff</color>
+    <color name="text_dark">#000000</color>
+    <color name="text_light">#80000000</color>
+
+    <color name="blue_button">#14A0FF</color>
+    <color name="blue_button_pressed">#0F619B</color>
+
+    <color name="priority_0">#5AFFB0</color>
+    <color name="priority_1">#FFCC4A</color>
+    <color name="priority_2">#FF5A5A</color>
+
+</resources>

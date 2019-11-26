@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TaskManagerTest</string>
+    <string name="save">сохранить</string>
+    <string name="priority">приоритет</string>
+    <string name="my_tasks">МОИ ДЕЛА</string>
+    <string name="empty_list">Добавьте первое дело</string>
+    <string name="deadline">Скоро дедлайн</string>
+    <string name="time_pick">Выбрать время</string>
+    <string name="set_notif">Установить напоминание</string>
+    <string name="done">Выполнено</string>
+</resources>
